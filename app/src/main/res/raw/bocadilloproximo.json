@@ -1,0 +1,11 @@
+{
+  "bocadillos": {
+    "LUNES": ["Bocadillo de atún con lechuga \n", "Bocadillo de pollo a la plancha"],
+    "MARTES": ["Bocadillo de jamón con tomate \n", "Bocadillo de carne asada con queso"],
+    "MIERCOLES": ["Bocadillo de queso fresco con espinacas \n", "Bocadillo de lomo con pimientos"],
+    "JUEVES": ["Bocadillo de pollo con mostaza \n", "Bocadillo de hamburguesa con bacon"],
+    "VIERNES": ["Bocadillo de salmón ahumado y aguacate \n", "Bocadillo de ternera con champiñones"],
+    "SABADO": ["Bocadillo frío no disponible \n", "Bocadillo caliente no disponible"],
+    "DOMINGO": ["Bocadillo frío no disponible \n", "Bocadillo caliente no disponible"]
+  }
+}

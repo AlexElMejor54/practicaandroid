@@ -1,0 +1,20 @@
+{
+  "bocadillosfrios": {
+    "MONDAY": "Atún con lechuga",
+    "TUESDAY": "Jamón con tomate",
+    "WEDNESDAY": "Queso fresco con espinacas",
+    "THURSDAY": "Pollo con mostaza",
+    "FRIDAY": "Salmón ahumado y aguacate",
+    "SATURDAY": "No hay bocadillo",
+    "SUNDAY": "No hay bocadillo"
+  },
+  "bocadilloscalientes": {
+    "MONDAY": "Pollo a la plancha",
+    "TUESDAY": "Carne asada con queso",
+    "WEDNESDAY": "Lomo con pimientos",
+    "THURSDAY": "Hamburguesa con bacon",
+    "FRIDAY": "Ternera con champiñones",
+    "SATURDAY": "No hay bocadillo",
+    "SUNDAY": "No hay bocadillo"
+  }
+}
